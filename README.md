@@ -1,21 +1,33 @@
-```
-__/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/\\\\\______        
- _\/\\\_______\/\\\_\/\\\///////////__\/\\\_____________\/\\\_________________/\\\///\\\____       
-  _\/\\\_______\/\\\_\/\\\_____________\/\\\_____________\/\\\_______________/\\\/__\///\\\__      
-   _\/\\\\\\\\\\\\\\\_\/\\\\\\\\\\\_____\/\\\_____________\/\\\______________/\\\______\//\\\_     
-    _\/\\\/////////\\\_\/\\\///////______\/\\\_____________\/\\\_____________\/\\\_______\/\\\_    
-     _\/\\\_______\/\\\_\/\\\_____________\/\\\_____________\/\\\_____________\//\\\______/\\\__   
-      _\/\\\_______\/\\\_\/\\\_____________\/\\\_____________\/\\\______________\///\\\__/\\\____  
-       _\/\\\_______\/\\\_\/\\\\\\\\\\\\\\\_\/\\\\\\\\\\\\\\\_\/\\\\\\\\\\\\\\\____\///\\\\\/_____ 
-        _\///________\///__\///////////////__\///////////////__\///////////////_______\/////_______
-```
+# 👋 Hi, I'm Hadi Fawwaz Sudewo  
 
+Welcome to my GitHub profile!  
+I love exploring **web development**, building cool projects, and sharing my journey with the community. 🚀  
 
-## 🎧 Recently Played on Spotify
-[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31w5xdegv4cry2t7p23xs2amquwi)](https://open.spotify.com/user/31w5xdegv4cry2t7p23xs2amquwi?si=c6ad110041c048a8)
+---
 
+## 🌱 About Me  
+- 💻 Passionate about **Laravel, PHP, and modern web stacks**  
+- 🎨 Learning more about **frontend design** with TailwindCSS  
+- 🎧 Music fuels my coding sessions 🎶  
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=800&lines=This+page+is+best+viewed+in+dark+mode.;Hope+you+enjoy!;Now+we+both+probably+need+to+get+back+to+coding" />
-</p>
+---
 
+## 🎶 Now Playing on Spotify  
+[![Spotify](https://github-spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/31w5xdegv4cry2t7p23xs2amquwi?si=c6ad110041c048a8)
+
+---
+
+## 📊 GitHub Stats  
+![Hadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HadiFawwazSudewo&show_icons=true&theme=radical)  
+
+---
+
+## 📫 Connect with Me  
+- 🌍 [Spotify](https://open.spotify.com/user/31w5xdegv4cry2t7p23xs2amquwi?si=c6ad110041c048a8)  
+- 💼 [LinkedIn](#)  
+- 🐦 [Twitter](#)  
+- 📸 [Instagram](#)  
+
+---
+
+⭐️ From [Hadi Fawwaz Sudewo](https://github.com/HadiFawwazSudewo)
