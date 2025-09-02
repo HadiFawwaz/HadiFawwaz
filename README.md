@@ -11,8 +11,9 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 ```
 
 
-## Spotify Live View
-[![Spotify](https://github-spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/31w5xdegv4cry2t7p23xs2amquwi?si=c6ad110041c048a8)
+## 🎧 Recently Played on Spotify
+[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31w5xdegv4cry2t7p23xs2amquwi)](https://open.spotify.com/user/31w5xdegv4cry2t7p23xs2amquwi?si=c6ad110041c048a8)
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=800&lines=This+page+is+best+viewed+in+dark+mode.;Hope+you+enjoy!;Now+we+both+probably+need+to+get+back+to+coding" />
