@@ -12,8 +12,8 @@ I love exploring **web development**, building cool projects, and sharing my jou
 
 ---
 
-## 🎶 Now Playing on Spotify  
-[![Spotify](https://github-spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/31w5xdegv4cry2t7p23xs2amquwi?si=c6ad110041c048a8)
+# 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/879894056761692172)[![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/31w5xdegv4cry2t7p23xs2amquwi?si=27132f462a91484a)
 
 ---
 
