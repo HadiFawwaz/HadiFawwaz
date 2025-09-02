@@ -13,7 +13,7 @@ I love exploring **web development**, building cool projects, and sharing my jou
 ---
 
 # 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/879894056761692172)[![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/31w5xdegv4cry2t7p23xs2amquwi?si=27132f462a91484a)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/879894056761692172) [![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/31w5xdegv4cry2t7p23xs2amquwi?si=27132f462a91484a)
 
 ---
 
