@@ -18,7 +18,7 @@ I love exploring **web development**, building cool projects, and sharing my jou
 ---
 
 ## 📊 GitHub Stats  
-![Hadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HadiFawwazSudewo&show_icons=true&theme=radical)  
+![Hadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HadiFawwaz&show_icons=true&theme=radical)  
 
 ---
 
