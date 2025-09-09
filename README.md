@@ -21,6 +21,11 @@ I love exploring **web development**, building cool projects, and sharing my jou
 ![Hadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HadiFawwaz&show_icons=true&theme=radical)  
 
 ---
+## Now Playing
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31w5xdegv4cry2t7p23xs2amquwi&cover_image=true&theme=natemoo-re&show_offline=true&background_color=990000&interchange=false&bar_color=ffcc14&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31w5xdegv4cry2t7p23xs2amquwi&redirect=true)
 
+---
 
 ⭐️ From [Hadi Fawwaz Sudewo](https://github.com/HadiFawwazSudewo)
+
+
