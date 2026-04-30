@@ -14,7 +14,6 @@
 - 🏆 Proud **1st Place Winner** at the WEB DEV IT FEST 2025.
 - 💻 Passionate about building robust web applications using **Laravel, PHP, and modern frontend stacks (React.js, Tailwind CSS)**.
 - 📱 Also exploring mobile development with **React Native (Expo)**.
-- ⌨️ Outside of coding, I'm a mechanical keyboard enthusiast, a Formula 1 fan, and I love listening to music while writing code! 🎶
 
 ---
 
