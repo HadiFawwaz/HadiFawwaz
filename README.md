@@ -29,11 +29,6 @@
     "backend": ["PHP", "Laravel", "MySQL"],
     "mobile": ["React Native (Expo)"]
   },
-  "hobbies": [
-    "Custom Mechanical Keyboards (75% Layouts)", 
-    "Formula 1", 
-    "Listening to Music while Coding"
-  ]
 }
 ```
 
