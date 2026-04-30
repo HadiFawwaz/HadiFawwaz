@@ -1,4 +1,4 @@
-#  Hi, I'm Hadi Fawwaz Sudewo! 
+# 👋 Hi, I'm Hadi Fawwaz Sudewo! 
 
 
 <p align="center">
@@ -14,8 +14,7 @@
 
 ---
 
-
-##  About Me
+## 👨‍💻 About Me (Terminal Mode)
 ```json
 {
   "name": "Hadi Fawwaz Sudewo",
@@ -29,12 +28,13 @@
     "backend": ["PHP", "Laravel", "MySQL"],
     "mobile": ["React Native (Expo)"]
   },
+ 
 }
 ```
 
 ---
 
-##  My Tech Stack
+## 🛠️ My Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
@@ -46,15 +46,29 @@
 
 ---
 
-##  GitHub Analytics
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github.readme-stats.vercel.app/api?username=HadiFawwaz&show_icons=true&theme=radical&hide_border=true" alt="Hadi's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HadiFawwaz&theme=radical&hide_border=true" alt="Hadi's GitHub Streak" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=HadiFawwaz&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Hadi's GitHub Trophies" />
+  </a>
 </p>
 
 ---
 
-##  Now Playing
+## 📊 GitHub Analytics & Coding Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HadiFawwaz&show_icons=true&theme=radical&hide_border=true" alt="Hadi's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HadiFawwaz&theme=radical&hide_border=true" alt="Hadi's GitHub Streak" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HadiFawwaz&layout=compact&theme=radical&hide_border=true" alt="Hadi's WakaTime Stats" />
+</p>
+
+---
+
+## 🎧 Now Playing
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31w5xdegv4cry2t7p23xs2amquwi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true" alt="Spotify Now Playing" />
