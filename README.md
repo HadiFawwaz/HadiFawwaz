@@ -74,7 +74,6 @@
 
 ## 📊 GitHub Analytics & Coding Stats
 <p align="center">
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HadiFawwaz&theme=radical&hide_border=true" alt="Hadi's GitHub Streak" />
 </p>
 
