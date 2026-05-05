@@ -14,22 +14,39 @@
 
 ---
 
+
 ## 👨‍💻 About Me (Terminal Mode)
+
 ```json
+
 {
-  "name": "Hadi Fawwaz Sudewo",
-  "status": "Software Engineering (RPL) Student at SMK Informatika Pesat",
-  "focus": "Full-Stack Web Development",
-  "achievements": [
-    "1st Place Winner at WEB DEV IT FEST 2025"
-  ],
-  "techStack": {
-    "frontend": ["HTML", "CSS", "React.js", "Tailwind CSS"],
-    "backend": ["PHP", "Laravel", "MySQL"],
-    "mobile": ["React Native (Expo)"]
-  },
- 
+
+  "name": "Hadi Fawwaz Sudewo",
+
+  "status": "Software Engineering (RPL) Student at SMK Informatika Pesat",
+
+  "focus": "Full-Stack Web Development",
+
+  "achievements": [
+
+    "1st Place Winner at WEB DEV IT FEST 2025"
+
+  ],
+
+  "techStack": {
+
+    "frontend": ["HTML", "CSS", "React.js", "Tailwind CSS"],
+
+    "backend": ["PHP", "Laravel", "MySQL"],
+
+    "mobile": ["React Native (Expo)"]
+
+  },
+
+ 
+
 }
+
 ```
 
 ---
