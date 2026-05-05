@@ -57,14 +57,9 @@
 
 ## 📊 GitHub Analytics & Coding Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HadiFawwaz&show_icons=true&theme=radical&hide_border=true" alt="Hadi's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HadiFawwaz&theme=radical&hide_border=true" alt="Hadi's GitHub Streak" />
 </p>
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HadiFawwaz&layout=compact&theme=radical&hide_border=true&v=2" alt="Hadi's WakaTime Stats" />
-</p>
 
 ---
 
