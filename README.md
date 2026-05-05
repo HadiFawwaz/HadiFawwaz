@@ -63,7 +63,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HadiFawwaz&layout=compact&theme=radical&hide_border=true" alt="Hadi's WakaTime Stats" />
+  <img src="[https://github-readme-stats.vercel.app/api/wakatime?username=HadiFawwaz&layout=compact&theme=radical&hide_border=true](https://github-readme-stats.vercel.app/api/wakatime?username=HadiFawwaz&layout=compact&theme=radical&hide_border=true)" alt="Hadi's WakaTime Stats" />
 </p>
 
 ---
